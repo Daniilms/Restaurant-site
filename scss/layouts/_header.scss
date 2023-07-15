@@ -1,0 +1,37 @@
+.header {
+  padding: 56px 0 27px 0;
+  border-bottom: 1px solid $light-gray;
+}
+.header-navigation {
+  margin: -10px 0 0 20px;
+}
+.header-logo {
+  margin: 0 0 0 5px;
+}
+.header-logo-svg {
+  margin: 10px 0 0 0;
+}
+.header-logo-link {
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 130%; 
+  color: $main-violet; 
+  text-decoration: none;
+  margin: 0 0 0 10px;
+}
+.header-navigation-links {
+  margin: 20px 0 0 103px;
+}
+.header-navigation-links-link {
+  font-size: $text-size;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26.743px; 
+  color: $gray-font;
+  text-decoration: none;
+}
+.header-navigation-links-link:not(:first-child) {
+  margin: 0 0 0 53px;
+}
+.header-sign-buttons {
+}
